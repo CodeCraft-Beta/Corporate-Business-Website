@@ -17,7 +17,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Corporate-Business-Website/
 
-**Website View** - https://designcraft.odoo.com/corporate-business-website
+**Website View** - https://www.codecrafts.site/corporate-business-website
 
 # CodeCraft-Beta
 
@@ -43,7 +43,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - https://designcraft.odoo.com/
+**Website** - https://www.codecrafts.site/
 
 # Introduction
 
